@@ -1,2 +1,2 @@
 # FPGA
-The fpga project
+The fpga projects
