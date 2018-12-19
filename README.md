@@ -1,3 +1,3 @@
-# FPGA
+FPGA
 =======
 The fpga projects
